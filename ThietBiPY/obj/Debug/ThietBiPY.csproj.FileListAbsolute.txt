@@ -1,0 +1,484 @@
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiPY\bin\Debug\ThietBiPY.exe
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiPY\bin\Debug\ThietBiPY.pdb
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiPY\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.Properties.Resources.resources
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.csproj.GenerateResource.Cache
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.exe
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.pdb
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.frm_main.resources
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiPY\bin\Debug\ThietBiBLL.dll
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiPY\bin\Debug\ThietBiDAL.dll
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiPY\bin\Debug\ThietBiBLL.pdb
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiPY\bin\Debug\ThietBiDAL.pdb
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_saoluu_phuchoi_CSDL.resources
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiPY\bin\Debug\Interop.SQLDMO.dll
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_danhmuc.resources
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_ketnoiserver.resources
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.frm_banlamviec.resources
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.exe
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.pdb
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiPY\bin\Debug\ThietBiPY.exe
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiPY\bin\Debug\ThietBiPY.pdb
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiPY\bin\Debug\ThietBiBLL.dll
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiPY\bin\Debug\ThietBiDAL.dll
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiPY\bin\Debug\Interop.SQLDMO.dll
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiPY\bin\Debug\ThietBiDAL.pdb
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiPY\bin\Debug\ThietBiBLL.pdb
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiPY\obj\Debug\ResolveAssemblyReference.cache
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_danhmuc.resources
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.frm_main.resources
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.frm_banlamviec.resources
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_ketnoiserver.resources
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_saoluu_phuchoi_CSDL.resources
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.Properties.Resources.resources
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.csproj.GenerateResource.Cache
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.exe
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.pdb
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiPY\bin\Debug\ThietBiPY.exe
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiPY\bin\Debug\ThietBiPY.pdb
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiPY\bin\Debug\ThietBiBLL.dll
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiPY\bin\Debug\ThietBiDAL.dll
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiPY\bin\Debug\Interop.SQLDMO.dll
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiPY\bin\Debug\ThietBiDAL.pdb
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiPY\bin\Debug\ThietBiBLL.pdb
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiPY\obj\Debug\ResolveAssemblyReference.cache
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_danhmuc.resources
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.frm_main.resources
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.frm_banlamviec.resources
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_ketnoiserver.resources
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_saoluu_phuchoi_CSDL.resources
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.Properties.Resources.resources
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.csproj.GenerateResource.Cache
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\bin\Debug\ThietBiPY.exe
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\bin\Debug\ThietBiPY.pdb
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\bin\Debug\ThietBiBLL.dll
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\bin\Debug\ThietBiDAL.dll
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\bin\Debug\Interop.SQLDMO.dll
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\bin\Debug\ThietBiDAL.pdb
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\bin\Debug\ThietBiBLL.pdb
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ResolveAssemblyReference.cache
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_bangiaothietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_giaonhanthietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_kiemkethietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_thanhlythietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_bangiaothietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_giaonhanthietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_kiemkethietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_macabiet.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_macabiet2.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_thanhlythietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_theodonvisudung.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_thuhoithietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.thongkethietbi.frm_thongke_thietbi_theonoisudung.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.thongkethietbi.frm_thongke_thietbi_theoloaithietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.thongkethietbi.frm_thongke_thietbi_theoloaithietbi_chitiet.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_dschonthietbi_theonoisudung.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_gtthietbi_dschon.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhacungcap.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhacungcap_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhacungcap_dschon.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhanvien.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhanvien_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhanvien_dschon.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_phutung.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_phutung_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_capnhat_tufile.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_dschon.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_macabiet.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_thongtinchitiet.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_bophan.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_bophan_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_donvi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_donvi_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinnhanvien.frm_chucvu.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinnhanvien.frm_chucvu_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_donvitinh.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_donvitinh_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_loaithietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_loaithietbi_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_nhomthietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_nhomthietbi_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tinhtrangthietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tinhtrangthietbi_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tylehaomon.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tylehaomon_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_nuoc.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_nuoc_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_tinh.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_tinh_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.frm_main_khac.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.frm_main_quantri.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.frm_banlamviec.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_hethong_thietlap.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_ketnoiserver.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nguoidung.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nguoidung_capquyen.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nguoidung_quantri.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nhatkihethong.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_saoluu_phuchoi_CSDL.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_danhgialaithietbi_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_thanhlythietbi_capnhat_gt.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_nghiepvuthietbi_capnhat_tt_ht.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_giaonhanthietbi_capnhatsl_dg.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_bangiaothietbi_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_danhgialaithietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_giaonhanthietbi_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_kiemkethietbi_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_thanhlythietbi_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.Properties.Resources.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.csproj.GenerateResource.Cache
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\RdlCompile.cache
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\RdlCompile.compiled
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.exe
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.pdb
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_thongketinhtrang.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.exe
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.pdb
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\bin\Debug\ThietBiPY.exe
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\bin\Debug\ThietBiPY.pdb
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\bin\Debug\ThietBiBLL.dll
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\bin\Debug\ThietBiDAL.dll
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\bin\Debug\Interop.SQLDMO.dll
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\bin\Debug\ThietBiDAL.pdb
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\bin\Debug\ThietBiBLL.pdb
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ResolveAssemblyReference.cache
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_bangiaothietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_giaonhanthietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_kiemkethietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_thanhlythietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_bangiaothietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_giaonhanthietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_kiemkethietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_macabiet.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_macabiet2.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_thanhlythietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_theodonvisudung.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_thuhoithietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_thongketinhtrang.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.thongkethietbi.frm_thongke_thietbi_theonoisudung.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.thongkethietbi.frm_thongke_thietbi_theoloaithietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.thongkethietbi.frm_thongke_thietbi_theoloaithietbi_chitiet.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_dschonthietbi_theonoisudung.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_gtthietbi_dschon.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhacungcap.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhacungcap_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhacungcap_dschon.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhanvien.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhanvien_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhanvien_dschon.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_phutung.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_phutung_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_capnhat_tufile.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_dschon.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_macabiet.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_thongtinchitiet.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_bophan.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_bophan_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_donvi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_donvi_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinnhanvien.frm_chucvu.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinnhanvien.frm_chucvu_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_donvitinh.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_donvitinh_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_loaithietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_loaithietbi_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_nhomthietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_nhomthietbi_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tinhtrangthietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tinhtrangthietbi_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tylehaomon.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tylehaomon_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_nuoc.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_nuoc_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_tinh.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_tinh_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.frm_main_khac.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.frm_main_quantri.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.frm_banlamviec.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_hethong_thietlap.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_ketnoiserver.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nguoidung.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nguoidung_capquyen.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nguoidung_quantri.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nhatkihethong.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_saoluu_phuchoi_CSDL.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_danhgialaithietbi_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_thanhlythietbi_capnhat_gt.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_nghiepvuthietbi_capnhat_tt_ht.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_giaonhanthietbi_capnhatsl_dg.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_bangiaothietbi_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_danhgialaithietbi.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_giaonhanthietbi_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_kiemkethietbi_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_thanhlythietbi_capnhat.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.Properties.Resources.resources
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.csproj.GenerateResource.Cache
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\RdlCompile.cache
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\RdlCompile.compiled
+D:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.exe
+D:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.pdb
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.exe
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.pdb
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\bin\Debug\ThietBiPY.exe
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\bin\Debug\ThietBiPY.pdb
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\bin\Debug\ThietBiBLL.dll
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\bin\Debug\ThietBiDAL.dll
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\bin\Debug\Interop.SQLDMO.dll
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\bin\Debug\ThietBiDAL.pdb
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\bin\Debug\ThietBiBLL.pdb
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ResolveAssemblyReference.cache
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_bangiaothietbi.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_giaonhanthietbi.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_kiemkethietbi.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_thanhlythietbi.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_bangiaothietbi.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_giaonhanthietbi.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_kiemkethietbi.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_macabiet.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_macabiet2.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_thanhlythietbi.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_theodonvisudung.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_thuhoithietbi.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_thongketinhtrang.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.thongkethietbi.frm_thongke_thietbi_theonoisudung.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.thongkethietbi.frm_thongke_thietbi_theoloaithietbi.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.thongkethietbi.frm_thongke_thietbi_theoloaithietbi_chitiet.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_dschonthietbi_theonoisudung.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_gtthietbi_dschon.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhacungcap.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhacungcap_capnhat.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhacungcap_dschon.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhanvien.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhanvien_capnhat.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhanvien_dschon.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_phutung.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_phutung_capnhat.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_capnhat.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_capnhat_tufile.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_dschon.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_macabiet.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_thongtinchitiet.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_bophan.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_bophan_capnhat.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_donvi.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_donvi_capnhat.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinnhanvien.frm_chucvu.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinnhanvien.frm_chucvu_capnhat.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_donvitinh.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_donvitinh_capnhat.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_loaithietbi.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_loaithietbi_capnhat.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_nhomthietbi.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_nhomthietbi_capnhat.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tinhtrangthietbi.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tinhtrangthietbi_capnhat.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tylehaomon.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tylehaomon_capnhat.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_nuoc.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_nuoc_capnhat.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_tinh.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_tinh_capnhat.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.frm_main_khac.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.frm_main_quantri.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.frm_banlamviec.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_hethong_thietlap.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_ketnoiserver.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nguoidung.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nguoidung_capquyen.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nguoidung_quantri.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nhatkihethong.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_saoluu_phuchoi_CSDL.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_danhgialaithietbi_capnhat.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_thanhlythietbi_capnhat_gt.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_nghiepvuthietbi_capnhat_tt_ht.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_giaonhanthietbi_capnhatsl_dg.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_bangiaothietbi_capnhat.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_danhgialaithietbi.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_giaonhanthietbi_capnhat.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_kiemkethietbi_capnhat.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_thanhlythietbi_capnhat.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.Properties.Resources.resources
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.csproj.GenerateResource.Cache
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\RdlCompile.cache
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiPY\obj\Debug\RdlCompile.compiled
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.exe
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.pdb
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\bin\Debug\ThietBiPY.exe
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\bin\Debug\ThietBiPY.pdb
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\bin\Debug\ThietBiBLL.dll
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\bin\Debug\Interop.SQLDMO.dll
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\bin\Debug\ThietBiBLL.pdb
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ResolveAssemblyReference.cache
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_bangiaothietbi.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_giaonhanthietbi.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_kiemkethietbi.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_thanhlythietbi.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_bangiaothietbi.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_giaonhanthietbi.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_kiemkethietbi.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_macabiet.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_macabiet2.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_thanhlythietbi.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_theodonvisudung.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_thuhoithietbi.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_thongketinhtrang.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.thongkethietbi.frm_thongke_thietbi_theonoisudung.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.thongkethietbi.frm_thongke_thietbi_theoloaithietbi.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.thongkethietbi.frm_thongke_thietbi_theoloaithietbi_chitiet.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_dschonthietbi_theonoisudung.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_gtthietbi_dschon.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhacungcap.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhacungcap_capnhat.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhacungcap_dschon.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhanvien.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhanvien_capnhat.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhanvien_dschon.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_phutung.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_phutung_capnhat.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_capnhat.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_capnhat_tufile.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_dschon.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_macabiet.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_thongtinchitiet.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_bophan.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_bophan_capnhat.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_donvi.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_donvi_capnhat.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinnhanvien.frm_chucvu.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinnhanvien.frm_chucvu_capnhat.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_donvitinh.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_donvitinh_capnhat.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_loaithietbi.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_loaithietbi_capnhat.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_nhomthietbi.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_nhomthietbi_capnhat.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tinhtrangthietbi.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tinhtrangthietbi_capnhat.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tylehaomon.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tylehaomon_capnhat.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_nuoc.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_nuoc_capnhat.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_tinh.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_tinh_capnhat.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.frm_main_khac.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.frm_main_quantri.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.frm_banlamviec.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_hethong_thietlap.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_ketnoiserver.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nguoidung.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nguoidung_capquyen.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nguoidung_quantri.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nhatkihethong.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_saoluu_phuchoi_CSDL.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_danhgialaithietbi_capnhat.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_thanhlythietbi_capnhat_gt.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_nghiepvuthietbi_capnhat_tt_ht.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_giaonhanthietbi_capnhatsl_dg.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_bangiaothietbi_capnhat.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_danhgialaithietbi.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_giaonhanthietbi_capnhat.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_kiemkethietbi_capnhat.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_thanhlythietbi_capnhat.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.Properties.Resources.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.csproj.GenerateResource.Cache
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\RdlCompile.cache
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\RdlCompile.compiled
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.AboutBox1.resources
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\bin\Debug\ITCS.dll
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\bin\Debug\ITCS.pdb
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.about.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.exe
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.pdb
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\bin\Debug\ThietBiPY.exe
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\bin\Debug\ThietBiPY.pdb
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\bin\Debug\ITCS.dll
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\bin\Debug\ThietBiBLL.dll
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\bin\Debug\Interop.SQLDMO.dll
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\bin\Debug\ITCS.pdb
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\bin\Debug\ThietBiBLL.pdb
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ResolveAssemblyReference.cache
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.about.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.AboutBox1.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_bangiaothietbi.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_giaonhanthietbi.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_kiemkethietbi.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_thanhlythietbi.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_bangiaothietbi.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_giaonhanthietbi.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_kiemkethietbi.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_macabiet.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_macabiet2.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_thanhlythietbi.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_theodonvisudung.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_thuhoithietbi.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_thongketinhtrang.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.thongkethietbi.frm_thongke_thietbi_theonoisudung.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.thongkethietbi.frm_thongke_thietbi_theoloaithietbi.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.thongkethietbi.frm_thongke_thietbi_theoloaithietbi_chitiet.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_dschonthietbi_theonoisudung.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_gtthietbi_dschon.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhacungcap.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhacungcap_capnhat.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhacungcap_dschon.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhanvien.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhanvien_capnhat.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhanvien_dschon.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_phutung.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_phutung_capnhat.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_capnhat.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_capnhat_tufile.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_dschon.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_macabiet.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_thongtinchitiet.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_bophan.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_bophan_capnhat.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_donvi.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_donvi_capnhat.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinnhanvien.frm_chucvu.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinnhanvien.frm_chucvu_capnhat.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_donvitinh.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_donvitinh_capnhat.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_loaithietbi.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_loaithietbi_capnhat.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_nhomthietbi.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_nhomthietbi_capnhat.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tinhtrangthietbi.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tinhtrangthietbi_capnhat.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tylehaomon.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tylehaomon_capnhat.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_nuoc.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_nuoc_capnhat.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_tinh.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_tinh_capnhat.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.frm_main_khac.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.frm_main_quantri.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.frm_banlamviec.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_hethong_thietlap.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_ketnoiserver.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nguoidung.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nguoidung_capquyen.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nguoidung_quantri.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nhatkihethong.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_saoluu_phuchoi_CSDL.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_danhgialaithietbi_capnhat.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_thanhlythietbi_capnhat_gt.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_nghiepvuthietbi_capnhat_tt_ht.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_giaonhanthietbi_capnhatsl_dg.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_bangiaothietbi_capnhat.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_danhgialaithietbi.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_giaonhanthietbi_capnhat.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_kiemkethietbi_capnhat.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_thanhlythietbi_capnhat.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.Properties.Resources.resources
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\ThietBiPY.csproj.GenerateResource.Cache
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\RdlCompile.cache
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiPY\obj\Debug\RdlCompile.compiled
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.exe
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.pdb

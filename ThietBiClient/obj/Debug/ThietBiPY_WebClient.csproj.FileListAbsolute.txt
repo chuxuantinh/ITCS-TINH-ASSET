@@ -1,0 +1,60 @@
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiClient\bin\ThietBiClient.dll
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiClient\bin\ThietBiClient.pdb
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiClient\bin\ThietBiBLL.dll
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiClient\bin\ThietBiDAL.dll
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiClient\bin\Interop.SQLDMO.dll
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiClient\bin\ThietBiDAL.pdb
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiClient\bin\ThietBiBLL.pdb
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiClient\obj\Debug\ResolveAssemblyReference.cache
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiClient\obj\Debug\ThietBiClient.dll
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiClient\obj\Debug\ThietBiClient.pdb
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiClient\bin\ThietBiClient.dll
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiClient\bin\ThietBiClient.pdb
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiClient\bin\ThietBiBLL.dll
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiClient\bin\ThietBiDAL.dll
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiClient\bin\Interop.SQLDMO.dll
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiClient\bin\ThietBiDAL.pdb
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiClient\bin\ThietBiBLL.pdb
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiClient\obj\Debug\ResolveAssemblyReference.cache
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiClient\obj\Debug\ThietBiClient.dll
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiClient\obj\Debug\ThietBiClient.pdb
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiClient\bin\ThietBiClient.dll
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiClient\bin\ThietBiClient.pdb
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiClient\bin\ThietBiBLL.dll
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiClient\bin\ThietBiDAL.dll
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiClient\bin\Interop.SQLDMO.dll
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiClient\bin\ThietBiDAL.pdb
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiClient\bin\ThietBiBLL.pdb
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiClient\obj\Debug\ResolveAssemblyReference.cache
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiClient\obj\Debug\ThietBiClient.dll
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiClient\obj\Debug\ThietBiClient.pdb
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiClient\bin\ThietBiClient.dll
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiClient\bin\ThietBiClient.pdb
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiClient\bin\ThietBiBLL.dll
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiClient\bin\Interop.SQLDMO.dll
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiClient\bin\ThietBiBLL.pdb
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiClient\obj\Debug\ResolveAssemblyReference.cache
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiClient\obj\Debug\ThietBiClient.dll
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiClient\obj\Debug\ThietBiClient.pdb
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiClient\bin\ITCS.dll
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiClient\bin\ITCS.pdb
+F:\CHUTINH-SE\ITCS\ThietBiClient\bin\ThietBiClient.dll
+F:\CHUTINH-SE\ITCS\ThietBiClient\bin\ThietBiClient.pdb
+F:\CHUTINH-SE\ITCS\ThietBiClient\bin\ITCS.dll
+F:\CHUTINH-SE\ITCS\ThietBiClient\bin\ThietBiBLL.dll
+F:\CHUTINH-SE\ITCS\ThietBiClient\bin\Interop.SQLDMO.dll
+F:\CHUTINH-SE\ITCS\ThietBiClient\bin\ITCS.pdb
+F:\CHUTINH-SE\ITCS\ThietBiClient\bin\ThietBiBLL.pdb
+F:\CHUTINH-SE\ITCS\ThietBiClient\obj\Debug\ResolveAssemblyReference.cache
+F:\CHUTINH-SE\ITCS\ThietBiClient\obj\Debug\ThietBiClient.dll
+F:\CHUTINH-SE\ITCS\ThietBiClient\obj\Debug\ThietBiClient.pdb
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiClient\bin\ThietBiClient.dll
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiClient\bin\ThietBiClient.pdb
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiClient\bin\ITCS.dll
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiClient\bin\ThietBiBLL.dll
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiClient\bin\Interop.SQLDMO.dll
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiClient\bin\ITCS.pdb
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiClient\bin\ThietBiBLL.pdb
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiClient\obj\Debug\ResolveAssemblyReference.cache
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiClient\obj\Debug\ThietBiClient.dll
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiClient\obj\Debug\ThietBiClient.pdb

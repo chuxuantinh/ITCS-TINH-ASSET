@@ -1,0 +1,1447 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2005/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <DataSources>
+    <DataSource Name="DummyDataSource">
+      <rd:DataSourceID>17290773-b1d2-4b13-b47e-ae2338c2091a</rd:DataSourceID>
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+    </DataSource>
+  </DataSources>
+  <InteractiveHeight>11in</InteractiveHeight>
+  <rd:DrawGrid>true</rd:DrawGrid>
+  <InteractiveWidth>8.5in</InteractiveWidth>
+  <rd:SnapToGrid>true</rd:SnapToGrid>
+  <PageHeader>
+    <PrintOnFirstPage>true</PrintOnFirstPage>
+    <Height>0.125in</Height>
+    <PrintOnLastPage>true</PrintOnLastPage>
+  </PageHeader>
+  <rd:ReportID>f847dbc2-7828-408e-8427-e2319a30044f</rd:ReportID>
+  <EmbeddedImages>
+    <EmbeddedImage Name="logo_pyu">
+      <MIMEType>image/png</MIMEType>
+      <ImageData>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</ImageData>
+    </EmbeddedImage>
+  </EmbeddedImages>
+  <PageWidth>11.69in</PageWidth>
+  <DataSets>
+    <DataSet Name="ds_bangiaothietbi_CTBANGIAO">
+      <Fields>
+        <Field Name="ThietBiID">
+          <DataField>ThietBiID</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="TenThietBi">
+          <DataField>TenThietBi</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="DonViTinh">
+          <DataField>DonViTinh</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="MaThietBi">
+          <DataField>MaThietBi</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="LoaiTB">
+          <DataField>LoaiTB</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="SoHieu">
+          <DataField>SoHieu</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="SoLuong">
+          <DataField>SoLuong</DataField>
+          <rd:TypeName>System.Int16</rd:TypeName>
+        </Field>
+        <Field Name="HienTrang">
+          <DataField>HienTrang</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="MaCaBiet">
+          <DataField>MaCaBiet</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="TinhTrang">
+          <DataField>TinhTrang</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DummyDataSource</DataSourceName>
+        <CommandText />
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+      </Query>
+      <rd:DataSetInfo>
+        <rd:DataSetName>ds_bangiaothietbi</rd:DataSetName>
+        <rd:TableName>CTBANGIAO</rd:TableName>
+      </rd:DataSetInfo>
+    </DataSet>
+    <DataSet Name="ds_bangiaothietbi_BANGIAO">
+      <Fields>
+        <Field Name="BanGiaoID">
+          <DataField>BanGiaoID</DataField>
+          <rd:TypeName>System.Int64</rd:TypeName>
+        </Field>
+        <Field Name="NgayVanBan">
+          <DataField>NgayVanBan</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="SoVanBan">
+          <DataField>SoVanBan</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="NgayBanGiao">
+          <DataField>NgayBanGiao</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="DonViBanGiao">
+          <DataField>DonViBanGiao</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="BoPhanBanGiao">
+          <DataField>BoPhanBanGiao</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="NhanVienBanGiao">
+          <DataField>NhanVienBanGiao</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="ChucVuNVBanGiao">
+          <DataField>ChucVuNVBanGiao</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="DonViNhan">
+          <DataField>DonViNhan</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="BoPhanNhan">
+          <DataField>BoPhanNhan</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="NhanVienNhan">
+          <DataField>NhanVienNhan</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="ChucVuNVNhan">
+          <DataField>ChucVuNVNhan</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="ThamQuyenQD">
+          <DataField>ThamQuyenQD</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DummyDataSource</DataSourceName>
+        <CommandText />
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+      </Query>
+      <rd:DataSetInfo>
+        <rd:DataSetName>ds_bangiaothietbi</rd:DataSetName>
+        <rd:TableName>BANGIAO</rd:TableName>
+      </rd:DataSetInfo>
+    </DataSet>
+  </DataSets>
+  <Code />
+  <Width>11.69in</Width>
+  <Body>
+    <ReportItems>
+      <Textbox Name="ChucVuNVBanGiao">
+        <rd:DefaultName>ChucVuNVBanGiao</rd:DefaultName>
+        <Top>1.5in</Top>
+        <Width>4.75in</Width>
+        <Style>
+          <FontSize>9pt</FontSize>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>24</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>6.75in</Left>
+        <Height>0.25in</Height>
+        <Value>=": "+First(Fields!ChucVuNVBanGiao.Value, "ds_bangiaothietbi_BANGIAO")</Value>
+      </Textbox>
+      <Textbox Name="BoPhanBanGiao">
+        <rd:DefaultName>BoPhanBanGiao</rd:DefaultName>
+        <Top>1.25in</Top>
+        <Width>4.75in</Width>
+        <Style>
+          <FontSize>9pt</FontSize>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>23</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>6.75in</Left>
+        <Height>0.25in</Height>
+        <Value>=": "+First(Fields!BoPhanBanGiao.Value, "ds_bangiaothietbi_BANGIAO")</Value>
+      </Textbox>
+      <Textbox Name="NhanVienBanGiao">
+        <rd:DefaultName>NhanVienBanGiao</rd:DefaultName>
+        <Top>1.5in</Top>
+        <Width>3.875in</Width>
+        <Style>
+          <FontSize>9pt</FontSize>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>22</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>1.5in</Left>
+        <Height>0.25in</Height>
+        <Value>=": "+First(Fields!NhanVienBanGiao.Value, "ds_bangiaothietbi_BANGIAO")</Value>
+      </Textbox>
+      <Textbox Name="DonViNhan">
+        <rd:DefaultName>DonViNhan</rd:DefaultName>
+        <Top>1.75in</Top>
+        <Width>3.875in</Width>
+        <Style>
+          <FontSize>9pt</FontSize>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>21</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>1.5in</Left>
+        <Height>0.25in</Height>
+        <Value>=": "+First(Fields!DonViNhan.Value, "ds_bangiaothietbi_BANGIAO")</Value>
+      </Textbox>
+      <Textbox Name="DonViBanGiao_1">
+        <rd:DefaultName>DonViBanGiao_1</rd:DefaultName>
+        <Top>1.25in</Top>
+        <Width>3.875in</Width>
+        <Style>
+          <FontSize>9pt</FontSize>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>20</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>1.5in</Left>
+        <Height>0.25in</Height>
+        <Value>=": "+First(Fields!DonViBanGiao.Value, "ds_bangiaothietbi_BANGIAO")</Value>
+      </Textbox>
+      <Textbox Name="ThamQuyenQD">
+        <rd:DefaultName>ThamQuyenQD</rd:DefaultName>
+        <Top>0.875in</Top>
+        <Width>10in</Width>
+        <Style>
+          <FontSize>9pt</FontSize>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>19</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>1.5in</Left>
+        <Height>0.25in</Height>
+        <Value>=": "+First(Fields!ThamQuyenQD.Value, "ds_bangiaothietbi_BANGIAO")</Value>
+      </Textbox>
+      <Table Name="table4">
+        <ZIndex>18</ZIndex>
+        <DataSetName>ds_bangiaothietbi_BANGIAO</DataSetName>
+        <Width>2.125in</Width>
+        <Style>
+          <BorderStyle>
+            <Default>Solid</Default>
+          </BorderStyle>
+          <FontSize>8pt</FontSize>
+        </Style>
+        <Header>
+          <TableRows>
+            <TableRow>
+              <TableCells>
+                <TableCell>
+                  <ColSpan>2</ColSpan>
+                  <ReportItems>
+                    <Textbox Name="textbox40">
+                      <rd:DefaultName>textbox40</rd:DefaultName>
+                      <Style>
+                        <Color>Navy</Color>
+                        <BackgroundColor>WhiteSmoke</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <FontWeight>700</FontWeight>
+                        <TextAlign>Center</TextAlign>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>4</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>Chứng từ</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+              </TableCells>
+              <Height>0.25in</Height>
+            </TableRow>
+            <TableRow>
+              <TableCells>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox30">
+                      <rd:DefaultName>textbox30</rd:DefaultName>
+                      <Style>
+                        <FontWeight>700</FontWeight>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>3</ZIndex>
+                      <Value> Số    </Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="SoVanBan">
+                      <rd:DefaultName>SoVanBan</rd:DefaultName>
+                      <Style>
+                        <FontFamily>Tahoma</FontFamily>
+                        <FontSize>9pt</FontSize>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>2</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=":  "+First(Fields!SoVanBan.Value)</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+              </TableCells>
+              <Height>0.25in</Height>
+            </TableRow>
+            <TableRow>
+              <TableCells>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox36">
+                      <rd:DefaultName>textbox36</rd:DefaultName>
+                      <Style>
+                        <FontWeight>700</FontWeight>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>1</ZIndex>
+                      <Value> Ngày</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="NgayVanBan">
+                      <rd:DefaultName>NgayVanBan</rd:DefaultName>
+                      <Style>
+                        <FontFamily>Tahoma</FontFamily>
+                        <FontSize>9pt</FontSize>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <CanGrow>true</CanGrow>
+                      <Value>=":  "+First(Fields!NgayVanBan.Value)</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+              </TableCells>
+              <Height>0.25in</Height>
+            </TableRow>
+          </TableRows>
+        </Header>
+        <TableColumns>
+          <TableColumn>
+            <Width>0.5in</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>1.625in</Width>
+          </TableColumn>
+        </TableColumns>
+        <Height>0.75in</Height>
+        <Left>9.375in</Left>
+      </Table>
+      <Textbox Name="textbox20">
+        <Top>0.875in</Top>
+        <Width>1.25in</Width>
+        <Style>
+          <FontWeight>700</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>17</ZIndex>
+        <Left>0.25in</Left>
+        <Height>0.25in</Height>
+        <Value>Thẩm quyền QĐ</Value>
+      </Textbox>
+      <Textbox Name="textbox17">
+        <Top>1.5in</Top>
+        <Width>1.25in</Width>
+        <Style>
+          <FontWeight>700</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>16</ZIndex>
+        <Left>5.5in</Left>
+        <Height>0.25in</Height>
+        <Value>Chức vụ                </Value>
+      </Textbox>
+      <Textbox Name="textbox14">
+        <Top>1.5in</Top>
+        <Width>1.25in</Width>
+        <Style>
+          <FontWeight>700</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>15</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.25in</Left>
+        <Height>0.25in</Height>
+        <Value>Đại diện bàn giao  </Value>
+      </Textbox>
+      <Textbox Name="textbox11">
+        <Top>1.25in</Top>
+        <Width>1.25in</Width>
+        <Style>
+          <FontWeight>700</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>14</ZIndex>
+        <Left>5.5in</Left>
+        <Height>0.25in</Height>
+        <Value>Bộ phận bàn giao </Value>
+      </Textbox>
+      <Textbox Name="textbox5">
+        <rd:DefaultName>textbox5</rd:DefaultName>
+        <Width>1.875in</Width>
+        <Style>
+          <FontFamily>Tahoma</FontFamily>
+          <FontSize>9pt</FontSize>
+          <TextAlign>Center</TextAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>13</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.75in</Left>
+        <Height>0.5in</Height>
+        <Value>Trường Cao đẳng Văn hóa Nghệ thuật và Du lịch Sài Gòn</Value>
+      </Textbox>
+      <Textbox Name="NgayBanGiao_1">
+        <rd:DefaultName>NgayBanGiao_1</rd:DefaultName>
+        <Top>0.25in</Top>
+        <Width>1.875in</Width>
+        <Style>
+          <FontFamily>Tahoma</FontFamily>
+          <TextAlign>Center</TextAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>12</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>4.9075in</Left>
+        <Height>0.25in</Height>
+        <Value>="("+First(Fields!NgayBanGiao.Value, "ds_bangiaothietbi_BANGIAO")+")"</Value>
+      </Textbox>
+      <Textbox Name="textbox34">
+        <rd:DefaultName>textbox34</rd:DefaultName>
+        <Top>4in</Top>
+        <Width>1.625in</Width>
+        <Style>
+          <FontFamily>Tahoma</FontFamily>
+          <FontSize>9pt</FontSize>
+          <TextAlign>Center</TextAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>11</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>9.875in</Left>
+        <Height>0.25in</Height>
+        <Value>="Ngày " + Now().Day().ToString ()+" tháng "+Now().Month().ToString ()+" năm "+Now().Year ().ToString ()</Value>
+      </Textbox>
+      <Textbox Name="textbox33">
+        <rd:DefaultName>textbox33</rd:DefaultName>
+        <Top>4.25in</Top>
+        <Width>1.125in</Width>
+        <Style>
+          <FontSize>9pt</FontSize>
+          <TextAlign>Center</TextAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>10</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>10.125in</Left>
+        <Value>Nhân viên</Value>
+      </Textbox>
+      <Textbox Name="ChucVuNVNhan">
+        <rd:DefaultName>ChucVuNVNhan</rd:DefaultName>
+        <Top>2in</Top>
+        <Width>4.75in</Width>
+        <Style>
+          <FontSize>9pt</FontSize>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>9</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>6.75in</Left>
+        <Height>0.25in</Height>
+        <Value>=": "+First(Fields!ChucVuNVNhan.Value, "ds_bangiaothietbi_BANGIAO")</Value>
+      </Textbox>
+      <Textbox Name="textbox31">
+        <rd:DefaultName>textbox31</rd:DefaultName>
+        <Top>2in</Top>
+        <Width>1.25in</Width>
+        <Style>
+          <FontWeight>700</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>8</ZIndex>
+        <Left>5.5in</Left>
+        <Height>0.25in</Height>
+        <Value>Chức vụ                </Value>
+      </Textbox>
+      <Textbox Name="NhanVienNhan">
+        <rd:DefaultName>NhanVienNhan</rd:DefaultName>
+        <Top>2in</Top>
+        <Width>3.875in</Width>
+        <Style>
+          <FontSize>9pt</FontSize>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>7</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>1.5in</Left>
+        <Height>0.25in</Height>
+        <Value>=": "+First(Fields!NhanVienNhan.Value, "ds_bangiaothietbi_BANGIAO")</Value>
+      </Textbox>
+      <Textbox Name="textbox29">
+        <rd:DefaultName>textbox29</rd:DefaultName>
+        <Top>2in</Top>
+        <Width>1.25in</Width>
+        <Style>
+          <FontWeight>700</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>6</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.25in</Left>
+        <Height>0.25in</Height>
+        <Value>Đại diện nhận </Value>
+      </Textbox>
+      <Textbox Name="BoPhanNhan_1">
+        <rd:DefaultName>BoPhanNhan_1</rd:DefaultName>
+        <Top>1.75in</Top>
+        <Width>4.75in</Width>
+        <Style>
+          <FontSize>9pt</FontSize>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>5</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>6.75in</Left>
+        <Height>0.25in</Height>
+        <Value>=": "+First(Fields!BoPhanNhan.Value, "ds_bangiaothietbi_BANGIAO")</Value>
+      </Textbox>
+      <Textbox Name="textbox26">
+        <rd:DefaultName>textbox26</rd:DefaultName>
+        <Top>1.75in</Top>
+        <Width>1.25in</Width>
+        <Style>
+          <FontWeight>700</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>4</ZIndex>
+        <Left>5.5in</Left>
+        <Height>0.25in</Height>
+        <Value>Bộ phận nhận       </Value>
+      </Textbox>
+      <Textbox Name="textbox25">
+        <rd:DefaultName>textbox25</rd:DefaultName>
+        <Top>1.75in</Top>
+        <Width>1.25in</Width>
+        <Style>
+          <FontWeight>700</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>3</ZIndex>
+        <Left>0.25in</Left>
+        <Height>0.25in</Height>
+        <Value>Đơn vị nhận      </Value>
+      </Textbox>
+      <Textbox Name="textbox24">
+        <rd:DefaultName>textbox24</rd:DefaultName>
+        <Top>1.25in</Top>
+        <Width>1.25in</Width>
+        <Style>
+          <FontWeight>700</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>2</ZIndex>
+        <Left>0.25in</Left>
+        <Height>0.25in</Height>
+        <Value>Đơn vị bàn giao</Value>
+      </Textbox>
+      <Textbox Name="textbox22">
+        <rd:DefaultName>textbox22</rd:DefaultName>
+        <Width>2.28in</Width>
+        <Style>
+          <Color>#0000c0</Color>
+          <FontSize>13pt</FontSize>
+          <FontWeight>700</FontWeight>
+          <TextAlign>Center</TextAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>1</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>4.705in</Left>
+        <Height>0.25in</Height>
+        <Value>BÀN GIAO THIẾT BỊ</Value>
+      </Textbox>
+      <Table Name="table1">
+        <DataSetName>ds_bangiaothietbi_CTBANGIAO</DataSetName>
+        <Top>2.375in</Top>
+        <TableGroups>
+          <TableGroup>
+            <Grouping Name="tb_loaitb">
+              <GroupExpressions>
+                <GroupExpression>=Fields!LoaiTB.Value</GroupExpression>
+              </GroupExpressions>
+            </Grouping>
+            <Header>
+              <TableRows>
+                <TableRow>
+                  <TableCells>
+                    <TableCell>
+                      <ColSpan>8</ColSpan>
+                      <ReportItems>
+                        <Textbox Name="LoaiTB">
+                          <rd:DefaultName>LoaiTB</rd:DefaultName>
+                          <Style>
+                            <BackgroundColor>WhiteSmoke</BackgroundColor>
+                            <BorderStyle>
+                              <Default>Solid</Default>
+                            </BorderStyle>
+                            <FontFamily>Tahoma</FontFamily>
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>2pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          </Style>
+                          <ZIndex>17</ZIndex>
+                          <CanGrow>true</CanGrow>
+                          <Value>=Space(2)+Fields!LoaiTB.Value</Value>
+                        </Textbox>
+                      </ReportItems>
+                    </TableCell>
+                  </TableCells>
+                  <Height>0.25in</Height>
+                </TableRow>
+              </TableRows>
+            </Header>
+            <Footer>
+              <TableRows>
+                <TableRow>
+                  <TableCells>
+                    <TableCell>
+                      <ColSpan>8</ColSpan>
+                      <ReportItems>
+                        <Textbox Name="textbox39">
+                          <rd:DefaultName>textbox39</rd:DefaultName>
+                          <Style>
+                            <Color>DarkBlue</Color>
+                            <BorderStyle>
+                              <Default>Solid</Default>
+                            </BorderStyle>
+                            <TextAlign>Right</TextAlign>
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>2pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          </Style>
+                          <ZIndex>8</ZIndex>
+                          <CanGrow>true</CanGrow>
+                          <Value>=Space(4)+Count(Fields!MaThietBi.Value).ToString ()</Value>
+                        </Textbox>
+                      </ReportItems>
+                    </TableCell>
+                  </TableCells>
+                  <Height>0.25in</Height>
+                </TableRow>
+              </TableRows>
+            </Footer>
+          </TableGroup>
+        </TableGroups>
+        <Width>11.3077in</Width>
+        <Details>
+          <TableRows>
+            <TableRow>
+              <TableCells>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox4">
+                      <rd:DefaultName>textbox4</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <FontSize>9pt</FontSize>
+                        <TextAlign>Center</TextAlign>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>7</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=RowNumber("tb_loaitb").ToString ()</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="MaCaBiet">
+                      <rd:DefaultName>MaCaBiet</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <FontSize>9pt</FontSize>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>6</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!MaCaBiet.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="MaThietBi">
+                      <rd:DefaultName>MaThietBi</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <FontSize>9pt</FontSize>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>5</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!MaThietBi.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="SoHieu_1">
+                      <rd:DefaultName>SoHieu_1</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <FontSize>9pt</FontSize>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>4</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!SoHieu.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="TenThietBi_1">
+                      <rd:DefaultName>TenThietBi_1</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <FontSize>9pt</FontSize>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>3</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!TenThietBi.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="DonViTinh">
+                      <rd:DefaultName>DonViTinh</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <FontSize>9pt</FontSize>
+                        <TextAlign>Center</TextAlign>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>2</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!DonViTinh.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="TinhTrang">
+                      <rd:DefaultName>TinhTrang</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <FontSize>9pt</FontSize>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>1</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!TinhTrang.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="HienTrang">
+                      <rd:DefaultName>HienTrang</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <FontSize>9pt</FontSize>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!HienTrang.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+              </TableCells>
+              <Height>0.25in</Height>
+            </TableRow>
+          </TableRows>
+        </Details>
+        <Style>
+          <BorderStyle>
+            <Default>Solid</Default>
+          </BorderStyle>
+          <FontSize>9pt</FontSize>
+        </Style>
+        <Header>
+          <TableRows>
+            <TableRow>
+              <TableCells>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox1">
+                      <rd:DefaultName>textbox1</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>Gainsboro</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <FontWeight>700</FontWeight>
+                        <TextAlign>Center</TextAlign>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>23</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>STT</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox23">
+                      <rd:DefaultName>textbox23</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>Gainsboro</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <FontWeight>700</FontWeight>
+                        <TextAlign>Center</TextAlign>
+                        <VerticalAlign>Middle</VerticalAlign>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>22</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>Mã cá biệt</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ColSpan>2</ColSpan>
+                  <ReportItems>
+                    <Table Name="table2">
+                      <ZIndex>21</ZIndex>
+                      <Style>
+                        <BackgroundColor>Gainsboro</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                      </Style>
+                      <Header>
+                        <TableRows>
+                          <TableRow>
+                            <TableCells>
+                              <TableCell>
+                                <ColSpan>2</ColSpan>
+                                <ReportItems>
+                                  <Textbox Name="textbox3">
+                                    <rd:DefaultName>textbox3</rd:DefaultName>
+                                    <Style>
+                                      <BackgroundColor>Gainsboro</BackgroundColor>
+                                      <BorderStyle>
+                                        <Default>Solid</Default>
+                                      </BorderStyle>
+                                      <FontWeight>700</FontWeight>
+                                      <TextAlign>Center</TextAlign>
+                                      <PaddingLeft>2pt</PaddingLeft>
+                                      <PaddingRight>2pt</PaddingRight>
+                                      <PaddingTop>2pt</PaddingTop>
+                                      <PaddingBottom>2pt</PaddingBottom>
+                                    </Style>
+                                    <ZIndex>2</ZIndex>
+                                    <CanGrow>true</CanGrow>
+                                    <Value>Thông tin thiết bị</Value>
+                                  </Textbox>
+                                </ReportItems>
+                              </TableCell>
+                            </TableCells>
+                            <Height>0.24in</Height>
+                          </TableRow>
+                          <TableRow>
+                            <TableCells>
+                              <TableCell>
+                                <ReportItems>
+                                  <Textbox Name="textbox2">
+                                    <rd:DefaultName>textbox2</rd:DefaultName>
+                                    <Style>
+                                      <BackgroundColor>WhiteSmoke</BackgroundColor>
+                                      <BorderStyle>
+                                        <Default>Solid</Default>
+                                      </BorderStyle>
+                                      <TextAlign>Center</TextAlign>
+                                      <PaddingLeft>2pt</PaddingLeft>
+                                      <PaddingRight>2pt</PaddingRight>
+                                      <PaddingTop>2pt</PaddingTop>
+                                      <PaddingBottom>2pt</PaddingBottom>
+                                    </Style>
+                                    <ZIndex>1</ZIndex>
+                                    <CanGrow>true</CanGrow>
+                                    <Value>Mã thiết bị</Value>
+                                  </Textbox>
+                                </ReportItems>
+                              </TableCell>
+                              <TableCell>
+                                <ReportItems>
+                                  <Textbox Name="textbox28">
+                                    <rd:DefaultName>textbox28</rd:DefaultName>
+                                    <Style>
+                                      <BackgroundColor>WhiteSmoke</BackgroundColor>
+                                      <BorderStyle>
+                                        <Default>Solid</Default>
+                                      </BorderStyle>
+                                      <TextAlign>Center</TextAlign>
+                                      <PaddingLeft>2pt</PaddingLeft>
+                                      <PaddingRight>2pt</PaddingRight>
+                                      <PaddingTop>2pt</PaddingTop>
+                                      <PaddingBottom>2pt</PaddingBottom>
+                                    </Style>
+                                    <CanGrow>true</CanGrow>
+                                    <Value>Số hiệu</Value>
+                                  </Textbox>
+                                </ReportItems>
+                              </TableCell>
+                            </TableCells>
+                            <Height>0.26in</Height>
+                          </TableRow>
+                        </TableRows>
+                      </Header>
+                      <TableColumns>
+                        <TableColumn>
+                          <Width>1.25in</Width>
+                        </TableColumn>
+                        <TableColumn>
+                          <Width>1.25in</Width>
+                        </TableColumn>
+                      </TableColumns>
+                    </Table>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox10">
+                      <rd:DefaultName>textbox10</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>Gainsboro</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <FontWeight>700</FontWeight>
+                        <TextAlign>Center</TextAlign>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>20</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>Tên thiết bị</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ColSpan>2</ColSpan>
+                  <ReportItems>
+                    <Table Name="table3">
+                      <ZIndex>19</ZIndex>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                      </Style>
+                      <Header>
+                        <TableRows>
+                          <TableRow>
+                            <TableCells>
+                              <TableCell>
+                                <ColSpan>2</ColSpan>
+                                <ReportItems>
+                                  <Textbox Name="textbox16">
+                                    <rd:DefaultName>textbox16</rd:DefaultName>
+                                    <Style>
+                                      <BackgroundColor>Gainsboro</BackgroundColor>
+                                      <BorderStyle>
+                                        <Default>Solid</Default>
+                                      </BorderStyle>
+                                      <FontWeight>700</FontWeight>
+                                      <TextAlign>Center</TextAlign>
+                                      <PaddingLeft>2pt</PaddingLeft>
+                                      <PaddingRight>2pt</PaddingRight>
+                                      <PaddingTop>2pt</PaddingTop>
+                                      <PaddingBottom>2pt</PaddingBottom>
+                                    </Style>
+                                    <ZIndex>2</ZIndex>
+                                    <CanGrow>true</CanGrow>
+                                    <Value>Giá trị bàn giao</Value>
+                                  </Textbox>
+                                </ReportItems>
+                              </TableCell>
+                            </TableCells>
+                            <Height>0.25in</Height>
+                          </TableRow>
+                          <TableRow>
+                            <TableCells>
+                              <TableCell>
+                                <ReportItems>
+                                  <Textbox Name="textbox13">
+                                    <rd:DefaultName>textbox13</rd:DefaultName>
+                                    <Style>
+                                      <BackgroundColor>WhiteSmoke</BackgroundColor>
+                                      <BorderStyle>
+                                        <Default>Solid</Default>
+                                      </BorderStyle>
+                                      <TextAlign>Center</TextAlign>
+                                      <PaddingLeft>2pt</PaddingLeft>
+                                      <PaddingRight>2pt</PaddingRight>
+                                      <PaddingTop>2pt</PaddingTop>
+                                      <PaddingBottom>2pt</PaddingBottom>
+                                    </Style>
+                                    <ZIndex>1</ZIndex>
+                                    <CanGrow>true</CanGrow>
+                                    <Value>ĐVT</Value>
+                                  </Textbox>
+                                </ReportItems>
+                              </TableCell>
+                              <TableCell>
+                                <ReportItems>
+                                  <Textbox Name="textbox27">
+                                    <rd:DefaultName>textbox27</rd:DefaultName>
+                                    <Style>
+                                      <BackgroundColor>WhiteSmoke</BackgroundColor>
+                                      <BorderStyle>
+                                        <Default>Solid</Default>
+                                      </BorderStyle>
+                                      <TextAlign>Center</TextAlign>
+                                      <PaddingLeft>2pt</PaddingLeft>
+                                      <PaddingRight>2pt</PaddingRight>
+                                      <PaddingTop>2pt</PaddingTop>
+                                      <PaddingBottom>2pt</PaddingBottom>
+                                    </Style>
+                                    <CanGrow>true</CanGrow>
+                                    <Value>Tình trạng</Value>
+                                  </Textbox>
+                                </ReportItems>
+                              </TableCell>
+                            </TableCells>
+                            <Height>0.25in</Height>
+                          </TableRow>
+                        </TableRows>
+                      </Header>
+                      <TableColumns>
+                        <TableColumn>
+                          <Width>0.8077in</Width>
+                        </TableColumn>
+                        <TableColumn>
+                          <Width>1.125in</Width>
+                        </TableColumn>
+                      </TableColumns>
+                    </Table>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox19">
+                      <rd:DefaultName>textbox19</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>Gainsboro</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <FontWeight>700</FontWeight>
+                        <TextAlign>Center</TextAlign>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>18</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>Hiện trạng</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+              </TableCells>
+              <Height>0.5in</Height>
+            </TableRow>
+          </TableRows>
+        </Header>
+        <TableColumns>
+          <TableColumn>
+            <Width>0.5in</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>1in</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>1.25in</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>1.25in</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>3.375in</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>0.8077in</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>1.125in</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>2in</Width>
+          </TableColumn>
+        </TableColumns>
+        <Height>1.5in</Height>
+        <Footer>
+          <TableRows>
+            <TableRow>
+              <TableCells>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox7">
+                      <rd:DefaultName>textbox7</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>16</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value />
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox35">
+                      <rd:DefaultName>textbox35</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>15</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>Cộng :</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox8">
+                      <rd:DefaultName>textbox8</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <FontWeight>700</FontWeight>
+                        <TextAlign>Center</TextAlign>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>14</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Count(Fields!SoHieu.Value).ToString()</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox9">
+                      <rd:DefaultName>textbox9</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <FontWeight>700</FontWeight>
+                        <TextAlign>Center</TextAlign>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>13</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value />
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox12">
+                      <rd:DefaultName>textbox12</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>12</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value />
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox15">
+                      <rd:DefaultName>textbox15</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>11</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value />
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox18">
+                      <rd:DefaultName>textbox18</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <FontWeight>700</FontWeight>
+                        <TextAlign>Center</TextAlign>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>10</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value />
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox21">
+                      <rd:DefaultName>textbox21</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>9</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value />
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+              </TableCells>
+              <Height>0.25in</Height>
+            </TableRow>
+          </TableRows>
+        </Footer>
+        <Left>0.19115in</Left>
+      </Table>
+    </ReportItems>
+    <Height>4.45in</Height>
+  </Body>
+  <Language>en-US</Language>
+  <PageFooter>
+    <PrintOnFirstPage>true</PrintOnFirstPage>
+    <ReportItems>
+      <Textbox Name="textbox6">
+        <rd:DefaultName>textbox6</rd:DefaultName>
+        <Width>1in</Width>
+        <Style>
+          <FontSize>9pt</FontSize>
+          <TextAlign>Right</TextAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <CanGrow>true</CanGrow>
+        <Left>10.625in</Left>
+        <Value>="Trang "+ Globals!PageNumber.ToString ()</Value>
+      </Textbox>
+    </ReportItems>
+    <Height>0.25in</Height>
+    <PrintOnLastPage>true</PrintOnLastPage>
+  </PageFooter>
+  <PageHeight>8.27in</PageHeight>
+</Report>

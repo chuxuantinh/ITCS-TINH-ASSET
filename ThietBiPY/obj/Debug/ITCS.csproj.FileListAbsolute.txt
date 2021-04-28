@@ -1,0 +1,173 @@
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ResolveAssemblyReference.cache
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.about.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.AboutBox1.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_bangiaothietbi.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_giaonhanthietbi.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_kiemkethietbi.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_thanhlythietbi.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_bangiaothietbi.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_giaonhanthietbi.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_kiemkethietbi.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_macabiet.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_macabiet2.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_thanhlythietbi.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_theodonvisudung.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_thuhoithietbi.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_thongketinhtrang.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.thongkethietbi.frm_thongke_thietbi_theonoisudung.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.thongkethietbi.frm_thongke_thietbi_theoloaithietbi.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.thongkethietbi.frm_thongke_thietbi_theoloaithietbi_chitiet.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_dschonthietbi_theonoisudung.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_gtthietbi_dschon.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhacungcap.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhacungcap_capnhat.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhacungcap_dschon.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhanvien.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhanvien_capnhat.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhanvien_dschon.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_phutung.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_phutung_capnhat.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_capnhat.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_capnhat_tufile.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_dschon.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_macabiet.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_thongtinchitiet.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_bophan.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_bophan_capnhat.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_donvi.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_donvi_capnhat.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinnhanvien.frm_chucvu.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinnhanvien.frm_chucvu_capnhat.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_donvitinh.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_donvitinh_capnhat.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_loaithietbi.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_loaithietbi_capnhat.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_nhomthietbi.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_nhomthietbi_capnhat.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tinhtrangthietbi.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tinhtrangthietbi_capnhat.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tylehaomon.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tylehaomon_capnhat.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_nuoc.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_nuoc_capnhat.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_tinh.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_tinh_capnhat.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.frm_main_khac.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.frm_main_quantri.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.frm_banlamviec.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_hethong_thietlap.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_ketnoiserver.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nguoidung.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nguoidung_capquyen.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nguoidung_quantri.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nhatkihethong.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_saoluu_phuchoi_CSDL.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_danhgialaithietbi_capnhat.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_thanhlythietbi_capnhat_gt.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_nghiepvuthietbi_capnhat_tt_ht.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_giaonhanthietbi_capnhatsl_dg.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_bangiaothietbi_capnhat.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_danhgialaithietbi.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_giaonhanthietbi_capnhat.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_kiemkethietbi_capnhat.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_thanhlythietbi_capnhat.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.Properties.Resources.resources
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ITCS.csproj.GenerateResource.Cache
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\RdlCompile.cache
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\RdlCompile.compiled
+F:\CHUTINH-SE\ITCS\ThietBiPY\bin\Debug\ThietBiPY.exe
+F:\CHUTINH-SE\ITCS\ThietBiPY\bin\Debug\ThietBiPY.pdb
+F:\CHUTINH-SE\ITCS\ThietBiPY\bin\Debug\ITCS.dll
+F:\CHUTINH-SE\ITCS\ThietBiPY\bin\Debug\ThietBiBLL.dll
+F:\CHUTINH-SE\ITCS\ThietBiPY\bin\Debug\Interop.SQLDMO.dll
+F:\CHUTINH-SE\ITCS\ThietBiPY\bin\Debug\ITCS.pdb
+F:\CHUTINH-SE\ITCS\ThietBiPY\bin\Debug\ThietBiBLL.pdb
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.exe
+F:\CHUTINH-SE\ITCS\ThietBiPY\obj\Debug\ThietBiPY.pdb
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.exe
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.pdb
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\bin\Debug\ThietBiPY.exe
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\bin\Debug\ThietBiPY.pdb
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\bin\Debug\ITCS.dll
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\bin\Debug\ThietBiBLL.dll
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\bin\Debug\Interop.SQLDMO.dll
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\bin\Debug\ITCS.pdb
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\bin\Debug\ThietBiBLL.pdb
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ResolveAssemblyReference.cache
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.AboutBox1.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_bangiaothietbi.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_giaonhanthietbi.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_kiemkethietbi.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.frm_hoso_thanhlythietbi.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_bangiaothietbi.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_giaonhanthietbi.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_kiemkethietbi.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_macabiet.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_macabiet2.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_thanhlythietbi.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_theodonvisudung.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_thuhoithietbi.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.report.frm_bienban_thongketinhtrang.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.thongkethietbi.frm_thongke_thietbi_theonoisudung.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.thongkethietbi.frm_thongke_thietbi_theoloaithietbi.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.BaoCao_ThongKe.thongkethietbi.frm_thongke_thietbi_theoloaithietbi_chitiet.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_dschonthietbi_theonoisudung.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_gtthietbi_dschon.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhacungcap.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhacungcap_capnhat.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhacungcap_dschon.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhanvien.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhanvien_capnhat.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_nhanvien_dschon.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_phutung.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_phutung_capnhat.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_capnhat.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_capnhat_tufile.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_dschon.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_macabiet.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.frm_thietbi_thongtinchitiet.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_bophan.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_bophan_capnhat.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_donvi.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtindonvi.frm_donvi_capnhat.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinnhanvien.frm_chucvu.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinnhanvien.frm_chucvu_capnhat.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_donvitinh.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_donvitinh_capnhat.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_loaithietbi.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_loaithietbi_capnhat.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_nhomthietbi.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_nhomthietbi_capnhat.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tinhtrangthietbi.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tinhtrangthietbi_capnhat.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tylehaomon.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.thongtinthietbi.frm_tylehaomon_capnhat.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_nuoc.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_nuoc_capnhat.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_tinh.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.DanhMuc.vitridiali.frm_tinh_capnhat.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.frm_main_khac.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.frm_main_quantri.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.frm_banlamviec.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_hethong_thietlap.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_ketnoiserver.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nguoidung.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nguoidung_capquyen.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nguoidung_quantri.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_nhatkihethong.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.HeThong.frm_saoluu_phuchoi_CSDL.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_danhgialaithietbi_capnhat.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_thanhlythietbi_capnhat_gt.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_nghiepvuthietbi_capnhat_tt_ht.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.capnhatphu.frm_giaonhanthietbi_capnhatsl_dg.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_bangiaothietbi_capnhat.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_danhgialaithietbi.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_giaonhanthietbi_capnhat.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_kiemkethietbi_capnhat.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.NghiepVu.frm_thanhlythietbi_capnhat.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ThietBiPY.Properties.Resources.resources
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\ITCS.csproj.GenerateResource.Cache
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\RdlCompile.cache
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiPY\obj\Debug\RdlCompile.compiled

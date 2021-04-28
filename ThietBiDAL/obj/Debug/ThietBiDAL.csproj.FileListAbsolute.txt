@@ -1,0 +1,90 @@
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiDAL\bin\Debug\ThietBiDAL.dll
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiDAL\bin\Debug\ThietBiDAL.pdb
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiDAL\obj\Debug\ThietBiDAL.dll
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiDAL\obj\Debug\ThietBiDAL.pdb
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiDAL\bin\Debug\ThietBiDAL.dll.config
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiDAL\obj\Debug\Interop.SQLDMO.dll
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiDAL\obj\Debug\ThietBiDAL.csproj.ResolveComReference.cache
+C:\Users\vuathongtin\Documents\Visual Studio 2008\Projects\ThietBiPY\ThietBiDAL\bin\Debug\Interop.SQLDMO.dll
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiDAL\bin\Debug\ThietBiDAL.dll.config
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiDAL\bin\Debug\ThietBiDAL.dll
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiDAL\bin\Debug\ThietBiDAL.pdb
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiDAL\bin\Debug\Interop.SQLDMO.dll
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiDAL\obj\Debug\ResolveAssemblyReference.cache
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiDAL\obj\Debug\Interop.SQLDMO.dll
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiDAL\obj\Debug\ThietBiDAL.csproj.ResolveComReference.cache
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiDAL\obj\Debug\ThietBiDAL.dll
+F:\duanTN2010\QL Thiet Bi\ThietBiPY\ThietBiDAL\obj\Debug\ThietBiDAL.pdb
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiDAL\bin\Debug\ThietBiDAL.dll.config
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiDAL\bin\Debug\ThietBiDAL.dll
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiDAL\bin\Debug\ThietBiDAL.pdb
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiDAL\bin\Debug\Interop.SQLDMO.dll
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiDAL\obj\Debug\ResolveAssemblyReference.cache
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiDAL\obj\Debug\Interop.SQLDMO.dll
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiDAL\obj\Debug\ThietBiDAL.csproj.ResolveComReference.cache
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiDAL\obj\Debug\ThietBiDAL.dll
+F:\duanTN2010\QLThiet Bi\ThietBiPY\ThietBiDAL\obj\Debug\ThietBiDAL.pdb
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiDAL\bin\Debug\ThietBiDAL.dll.config
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiDAL\bin\Debug\ThietBiDAL.dll
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiDAL\bin\Debug\ThietBiDAL.pdb
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiDAL\bin\Debug\Interop.SQLDMO.dll
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiDAL\obj\Debug\ResolveAssemblyReference.cache
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiDAL\obj\Debug\Interop.SQLDMO.dll
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiDAL\obj\Debug\ThietBiDAL.csproj.ResolveComReference.cache
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiDAL\obj\Debug\ThietBiDAL.dll
+F:\duanTN2010\ThietBiPY\ThietBiPY\ThietBiDAL\obj\Debug\ThietBiDAL.pdb
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiDAL\bin\Debug\ThietBiDAL.dll.config
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiDAL\bin\Debug\ThietBiDAL.dll
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiDAL\bin\Debug\ThietBiDAL.pdb
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiDAL\bin\Debug\Interop.SQLDMO.dll
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiDAL\obj\Debug\ResolveAssemblyReference.cache
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiDAL\obj\Debug\Interop.SQLDMO.dll
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiDAL\obj\Debug\ThietBiDAL.csproj.ResolveComReference.cache
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiDAL\obj\Debug\ThietBiDAL.dll
+F:\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiDAL\obj\Debug\ThietBiDAL.pdb
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiDAL\bin\Debug\ThietBiDAL.dll.config
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiDAL\bin\Debug\ThietBiDAL.dll
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiDAL\bin\Debug\ThietBiDAL.pdb
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiDAL\bin\Debug\Interop.SQLDMO.dll
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiDAL\obj\Debug\Interop.SQLDMO.dll
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiDAL\obj\Debug\ThietBiDAL.csproj.ResolveComReference.cache
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiDAL\obj\Debug\ThietBiDAL.dll
+E:\KTT\duanTN2010\ThietBiPY\ThietBiPY_27_07_2011\ThietBiPY\ThietBiDAL\obj\Debug\ThietBiDAL.pdb
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiDAL\bin\Debug\Interop.SQLDMO.dll
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiDAL\obj\Debug\ResolveAssemblyReference.cache
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiDAL\obj\Debug\Interop.SQLDMO.dll
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiDAL\obj\Debug\ThietBiDAL.csproj.ResolveComReference.cache
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiDAL\bin\Debug\ITCS.dll.config
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiDAL\bin\Debug\ITCS.dll
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiDAL\bin\Debug\ITCS.pdb
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiDAL\obj\Debug\ITCS.dll
+F:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiDAL\obj\Debug\ITCS.pdb
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiDAL\bin\Debug\ITCS.dll.config
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiDAL\bin\Debug\ITCS.dll
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiDAL\bin\Debug\ITCS.pdb
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiDAL\bin\Debug\Interop.SQLDMO.dll
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiDAL\obj\Debug\ResolveAssemblyReference.cache
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiDAL\obj\Debug\Interop.SQLDMO.dll
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiDAL\obj\Debug\ThietBiDAL.csproj.ResolveComReference.cache
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiDAL\obj\Debug\ITCS.dll
+J:\CHUTINH-SE\ThietBiPY\ThietBiPY\ThietBiDAL\obj\Debug\ITCS.pdb
+F:\CHUTINH-SE\ITCS\ThietBiDAL\bin\Debug\ITCS.dll.config
+F:\CHUTINH-SE\ITCS\ThietBiDAL\bin\Debug\ITCS.dll
+F:\CHUTINH-SE\ITCS\ThietBiDAL\bin\Debug\ITCS.pdb
+F:\CHUTINH-SE\ITCS\ThietBiDAL\bin\Debug\Interop.SQLDMO.dll
+F:\CHUTINH-SE\ITCS\ThietBiDAL\obj\Debug\ResolveAssemblyReference.cache
+F:\CHUTINH-SE\ITCS\ThietBiDAL\obj\Debug\Interop.SQLDMO.dll
+F:\CHUTINH-SE\ITCS\ThietBiDAL\obj\Debug\ThietBiDAL.csproj.ResolveComReference.cache
+F:\CHUTINH-SE\ITCS\ThietBiDAL\obj\Debug\ITCS.dll
+F:\CHUTINH-SE\ITCS\ThietBiDAL\obj\Debug\ITCS.pdb
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiDAL\bin\Debug\ITCS.dll.config
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiDAL\bin\Debug\ITCS.dll
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiDAL\bin\Debug\ITCS.pdb
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiDAL\bin\Debug\Interop.SQLDMO.dll
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiDAL\obj\Debug\ResolveAssemblyReference.cache
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiDAL\obj\Debug\Interop.SQLDMO.dll
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiDAL\obj\Debug\ThietBiDAL.csproj.ResolveComReference.cache
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiDAL\obj\Debug\ITCS.dll
+F:\LAP TRINH C#\PROJECT\QUAN LY TAI SAN\ITCS\ThietBiDAL\obj\Debug\ITCS.pdb

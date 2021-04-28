@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ds_thanhlythietbi" targetNamespace="http://tempuri.org/ds_thanhlythietbi.xsd" xmlns:mstns="http://tempuri.org/ds_thanhlythietbi.xsd" xmlns="http://tempuri.org/ds_thanhlythietbi.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ds_thanhlythietbi" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="ds_thanhlythietbi" msprop:Generator_DataSetName="ds_thanhlythietbi" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="THANHLY" msprop:Generator_UserTableName="THANHLY" msprop:Generator_RowDeletedName="THANHLYRowDeleted" msprop:Generator_RowChangedName="THANHLYRowChanged" msprop:Generator_RowClassName="THANHLYRow" msprop:Generator_RowChangingName="THANHLYRowChanging" msprop:Generator_RowEvArgName="THANHLYRowChangeEvent" msprop:Generator_RowEvHandlerName="THANHLYRowChangeEventHandler" msprop:Generator_TableClassName="THANHLYDataTable" msprop:Generator_TableVarName="tableTHANHLY" msprop:Generator_RowDeletingName="THANHLYRowDeleting" msprop:Generator_TablePropName="THANHLY">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SoVanBan" msprop:Generator_UserColumnName="SoVanBan" msprop:Generator_ColumnVarNameInTable="columnSoVanBan" msprop:Generator_ColumnPropNameInRow="SoVanBan" msprop:Generator_ColumnPropNameInTable="SoVanBanColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="NgayVanBan" msprop:Generator_UserColumnName="NgayVanBan" msprop:Generator_ColumnVarNameInTable="columnNgayVanBan" msprop:Generator_ColumnPropNameInRow="NgayVanBan" msprop:Generator_ColumnPropNameInTable="NgayVanBanColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ThamQuyenQD" msprop:Generator_UserColumnName="ThamQuyenQD" msprop:Generator_ColumnVarNameInTable="columnThamQuyenQD" msprop:Generator_ColumnPropNameInRow="ThamQuyenQD" msprop:Generator_ColumnPropNameInTable="ThamQuyenQDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="NgayThanhLy" msprop:Generator_UserColumnName="NgayThanhLy" msprop:Generator_ColumnVarNameInTable="columnNgayThanhLy" msprop:Generator_ColumnPropNameInRow="NgayThanhLy" msprop:Generator_ColumnPropNameInTable="NgayThanhLyColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DaiDienThanhLy" msprop:Generator_UserColumnName="DaiDienThanhLy" msprop:Generator_ColumnVarNameInTable="columnDaiDienThanhLy" msprop:Generator_ColumnPropNameInRow="DaiDienThanhLy" msprop:Generator_ColumnPropNameInTable="DaiDienThanhLyColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ChucVuDaiDienThanhLy" msprop:Generator_UserColumnName="ChucVuDaiDienThanhLy" msprop:Generator_ColumnVarNameInTable="columnChucVuDaiDienThanhLy" msprop:Generator_ColumnPropNameInRow="ChucVuDaiDienThanhLy" msprop:Generator_ColumnPropNameInTable="ChucVuDaiDienThanhLyColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DonViThanhLy" msprop:Generator_UserColumnName="DonViThanhLy" msprop:Generator_ColumnVarNameInTable="columnDonViThanhLy" msprop:Generator_ColumnPropNameInRow="DonViThanhLy" msprop:Generator_ColumnPropNameInTable="DonViThanhLyColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DaiDienBenMua" msprop:Generator_UserColumnName="DaiDienBenMua" msprop:Generator_ColumnVarNameInTable="columnDaiDienBenMua" msprop:Generator_ColumnPropNameInRow="DaiDienBenMua" msprop:Generator_ColumnPropNameInTable="DaiDienBenMuaColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CTTHANHLY" msprop:Generator_UserTableName="CTTHANHLY" msprop:Generator_RowDeletedName="CTTHANHLYRowDeleted" msprop:Generator_RowChangedName="CTTHANHLYRowChanged" msprop:Generator_RowClassName="CTTHANHLYRow" msprop:Generator_RowChangingName="CTTHANHLYRowChanging" msprop:Generator_RowEvArgName="CTTHANHLYRowChangeEvent" msprop:Generator_RowEvHandlerName="CTTHANHLYRowChangeEventHandler" msprop:Generator_TableClassName="CTTHANHLYDataTable" msprop:Generator_TableVarName="tableCTTHANHLY" msprop:Generator_RowDeletingName="CTTHANHLYRowDeleting" msprop:Generator_TablePropName="CTTHANHLY">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MaThietBi" msprop:Generator_UserColumnName="MaThietBi" msprop:Generator_ColumnVarNameInTable="columnMaThietBi" msprop:Generator_ColumnPropNameInRow="MaThietBi" msprop:Generator_ColumnPropNameInTable="MaThietBiColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SoHieu" msprop:Generator_UserColumnName="SoHieu" msprop:Generator_ColumnVarNameInTable="columnSoHieu" msprop:Generator_ColumnPropNameInRow="SoHieu" msprop:Generator_ColumnPropNameInTable="SoHieuColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TenThietBi" msprop:Generator_UserColumnName="TenThietBi" msprop:Generator_ColumnVarNameInTable="columnTenThietBi" msprop:Generator_ColumnPropNameInRow="TenThietBi" msprop:Generator_ColumnPropNameInTable="TenThietBiColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DonViTinh" msprop:Generator_UserColumnName="DonViTinh" msprop:Generator_ColumnVarNameInTable="columnDonViTinh" msprop:Generator_ColumnPropNameInRow="DonViTinh" msprop:Generator_ColumnPropNameInTable="DonViTinhColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="MaCaBiet" msprop:Generator_UserColumnName="MaCaBiet" msprop:Generator_ColumnPropNameInRow="MaCaBiet" msprop:Generator_ColumnVarNameInTable="columnMaCaBiet" msprop:Generator_ColumnPropNameInTable="MaCaBietColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="GiaTriThanhLy" msprop:Generator_UserColumnName="GiaTriThanhLy" msprop:Generator_ColumnVarNameInTable="columnGiaTriThanhLy" msprop:Generator_ColumnPropNameInRow="GiaTriThanhLy" msprop:Generator_ColumnPropNameInTable="GiaTriThanhLyColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
